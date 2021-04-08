@@ -17,5 +17,6 @@
 
 ## Rust精简教程
 
-* [Rust精简教程](rust-jing-jian-jiao-cheng/untitled.md)
+* [Rust精简教程](rust-jing-jian-jiao-cheng/untitled/README.md)
+  * [第一章 语言基础](rust-jing-jian-jiao-cheng/untitled/di-yi-zhang-yu-yan-ji-chu.md)
 
