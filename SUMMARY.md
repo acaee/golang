@@ -17,5 +17,5 @@
 
 ## Rust精简教程
 
-* [Untitled](rust-jing-jian-jiao-cheng/untitled.md)
+* [Rust精简教程](rust-jing-jian-jiao-cheng/untitled.md)
 

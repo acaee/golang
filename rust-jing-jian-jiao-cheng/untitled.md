@@ -1,2 +1,2 @@
-# Untitled
+# Rust精简教程
 
